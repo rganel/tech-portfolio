@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Your Name Here', // Title for your website.
+    title: 'Rotem Ganel', // Title for your website.
     tagline: 'Continuously improving, aspiring technologist.',
     profilePhoto: 'img/profile.png',
     url: 'https://rganel.github.io', // Your website URL
